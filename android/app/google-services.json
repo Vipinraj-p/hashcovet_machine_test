@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034386195948",
+    "project_id": "hashcovet-machine-test",
+    "storage_bucket": "hashcovet-machine-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034386195948:android:ece7f0911f30e4948d2cc9",
+        "android_client_info": {
+          "package_name": "com.hashcovet.hashcovet_machine_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTORvcGCmVAcopZ6iZ3GJ1mJ_4aBioJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
